@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/gifApp/static/css/main.03501d43.chunk.css",
+    "main.js": "/gifApp/static/js/main.c78a164d.chunk.js",
+    "main.js.map": "/gifApp/static/js/main.c78a164d.chunk.js.map",
+    "runtime-main.js": "/gifApp/static/js/runtime-main.c5e90559.js",
+    "runtime-main.js.map": "/gifApp/static/js/runtime-main.c5e90559.js.map",
+    "static/js/2.578a5e5c.chunk.js": "/gifApp/static/js/2.578a5e5c.chunk.js",
+    "static/js/2.578a5e5c.chunk.js.map": "/gifApp/static/js/2.578a5e5c.chunk.js.map",
+    "index.html": "/gifApp/index.html",
+    "precache-manifest.d756ffecae7524e92245b966b5ad52a8.js": "/gifApp/precache-manifest.d756ffecae7524e92245b966b5ad52a8.js",
+    "service-worker.js": "/gifApp/service-worker.js",
+    "static/css/main.03501d43.chunk.css.map": "/gifApp/static/css/main.03501d43.chunk.css.map",
+    "static/js/2.578a5e5c.chunk.js.LICENSE.txt": "/gifApp/static/js/2.578a5e5c.chunk.js.LICENSE.txt",
+    "static/media/Earth.jpg": "/gifApp/static/media/Earth.f1c2afe1.jpg",
+    "static/media/descarga.gif": "/gifApp/static/media/descarga.886a6655.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5e90559.js",
+    "static/js/2.578a5e5c.chunk.js",
+    "static/css/main.03501d43.chunk.css",
+    "static/js/main.c78a164d.chunk.js"
+  ]
+}
